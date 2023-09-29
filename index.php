@@ -41,7 +41,7 @@
 
     </div>
 
-  </section><!-- End Hero Section -->
+  </section><!--End Hero Section -->
   
   <main id="main">
 
